@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+    <style>
+        /* 在這裡添加你的自定義CSS樣式 */
+    </style>
+</head>
+<body>
+    <h1>Login</h1>
+    
+    <form>
+        <!-- 在這裡添加用於輸入用戶名和密碼的表單元素 -->
+    </form>
+    
+    <ul>
+        <li><a href="#">Discover</a></li>
+        <li><a href="#">Marketplace</a></li>
+        <li><a href="#">Create</a></li>
+        <li><a href="#">10% More Robux</a></li>
+    </ul>
+    
+    <p>Please enable Javascript to use all the features on this site.</p>
+    
+    <button>Starting Roblox...</button>
+    <button>Connecting to People...</button>
+    
+    <p>Check Remember my choice and click in the dialog box above to join experiences faster in the future!</p>
+    
+    <p>Thanks for visiting Roblox</p>
+    
+    <ol>
+        <li>Click RobloxPlayer.exe to run the Roblox installer, which just downloaded via your web browser.</li>
+        <li>Click Run when prompted by your computer to begin the installation process.</li>
+        <li>Click Ok once you've successfully installed Roblox.</li>
+        <li>After installation, click Join below to join the action!</li>
+    </ol>
+    
+    <p>The Roblox installer should download shortly. If it doesn't, start the download now.</p>
+    
+    <button>Close</button>
+</body>
+</html>
